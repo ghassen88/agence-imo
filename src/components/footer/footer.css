@@ -1,0 +1,29 @@
+.footer-style {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background: #231f20;
+}
+.cell-top {
+  color: white;
+  padding: 15px;
+}
+li {
+  list-style: none;
+}
+li a {
+  line-height: 44px;
+  display: block;
+  padding: 0 10px;
+  color: #fff;
+  opacity: 0.5;
+  font-size: 25px;
+}
+li a:hover {
+  background: rgba(0, 0, 0, 0.9);
+  opacity: 1;
+  color: gray;
+}
+ul {
+  display: flex;
+}
